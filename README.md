@@ -12,7 +12,7 @@ Here's what we need to be able to do.
 
 **ARTIST**
 
-  - Get a list of all artists
+#  - Get a list of all artists
 
   - Get a list of all the paintings by a specific artists
 
@@ -25,13 +25,13 @@ Here's what we need to be able to do.
 
 **PAINTING**
 
-  - Get a list of all paintings
+#  - Get a list of all paintings
 
   - Get a list of all painting styles (a style should not appear more than once in the list)
 
 **GALLERY**
 
-  - Get a list of all galleries
+#  - Get a list of all galleries
 
   - Get a list of all cities that have a gallery. A city should not appear more than once in the list.
 
